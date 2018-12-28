@@ -1,4 +1,4 @@
-## Pasos para clonar proyecto desde cero
+## Clonar proyecto desde cero
 
 Ejecutar los siguientes comandos para contar con un sitio operativo:
 
@@ -11,11 +11,11 @@ Ejecutar los siguientes comandos para contar con un sitio operativo:
 - npm run watch (para re compilar todo proyecto)
 - php artisan serve (para iniciar proyecto)
 
-## Pasos para subir cambios al repositorio remoto
+## Subir cambios al repositorio remoto
 
 Ejecutar los siguientes comandos para subir cambios al repositorio remoto:
 
-- git remote add origin <url>
+- git remote add origin server
 - git add . 
 - git commit -m'comments'
 - git push -u origin master
