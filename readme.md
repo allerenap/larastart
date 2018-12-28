@@ -15,7 +15,7 @@ Ejecutar los siguientes comandos para contar con un sitio operativo:
 
 Ejecutar los siguientes comandos para subir cambios al repositorio remoto:
 
-- git remote add origin <server>
+- git remote add origin <url>
 - git add . 
 - git commit -m'comments'
 - git push -u origin master
