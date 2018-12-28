@@ -3,6 +3,8 @@
 Ejecutar los siguientes comandos para contar con un sitio operativo:
 
 - Clonar el repositorio de forma local
+- Copiar carpeta /vendor de un proyecto laravel nuevo
+- Copiar y configurar archivo .env
 - npm i -f
 - npm i admin-lte@3.0.0-alpha.2 --save
 - npm i @fortawesome/fontawesome-free
