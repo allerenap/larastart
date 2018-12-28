@@ -1,4 +1,4 @@
-## Pasos para clonar proyecto
+## Pasos para clonar proyecto desde cero
 
 Ejecutar los siguientes comandos para contar con un sitio operativo:
 
@@ -15,5 +15,10 @@ Ejecutar los siguientes comandos para contar con un sitio operativo:
 
 Ejecutar los siguientes comandos para subir cambios al repositorio remoto:
 
-- Paso 1
-- Paso 2
+- git remote add origin <server>
+- git add . 
+- git commit -m'comments'
+- git push -u origin master
+
+## Datos adicionales
+- http://rogerdudler.github.io/git-guide/index.es.html
