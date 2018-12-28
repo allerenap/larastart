@@ -9,6 +9,7 @@ Ejecutar los siguientes comandos para contar con un sitio operativo:
 - npm i admin-lte@3.0.0-alpha.2 --save
 - npm i @fortawesome/fontawesome-free
 - npm run watch (para re compilar todo proyecto)
+- php artisan serve (para iniciar proyecto)
 
 ## Pasos para subir cambios al repositorio remoto
 
